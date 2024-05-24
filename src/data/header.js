@@ -14,7 +14,7 @@ import { AiOutlineInstagram } from "react-icons/ai";
 
 export const headerMenus = [
     {
-        title: "웹스토리보이",
+        title: "에이미월드",
         icon: <CiBaseball />,
         src: "/"
     },
@@ -54,6 +54,8 @@ export const headerMenus = [
         src: "/youtube"
     },
 ];
+
+
 
 export const searchKeyword = [
     {
@@ -105,22 +107,22 @@ export const searchKeyword = [
 export const snsLink = [
     {
         title: "github",
-        url: "https://github.com/webstoryboy",
+        url: "https://github.com/miyouaug",
         icon: <AiFillGithub />
     },
     {
         title: "youtube",
-        url: "https://www.youtube.com/webstoryboy",
+        url: "https://www.youtube.com",
         icon: <AiFillYoutube />
     },
     {
         title: "codepen",
-        url: "https://codepen.io/webstoryboy",
+        url: "https://codepen.io",
         icon: <AiOutlineCodepen />
     },
     {
         title: "instagram",
-        url: "https://www.instagram.com/webstoryboy",
+        url: "https://www.instagram.com/miyouaug",
         icon: <AiOutlineInstagram />
     },
 ]

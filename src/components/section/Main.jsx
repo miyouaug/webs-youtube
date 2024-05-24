@@ -11,8 +11,8 @@ const Main = (props) => {
         <HelmetProvider>
             <ScrollTo />
             <Helmet 
-                titleTemplate="%s | Webs Youtube" 
-                defaultTitle="Webs Youtube" 
+                titleTemplate="%s | Amy's Youtube" 
+                defaultTitle="Amy's Youtube" 
                 defer={false}
             >
                 {props.title && <title>{props.title}</title>}
